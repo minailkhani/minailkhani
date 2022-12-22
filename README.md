@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @minailkhani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### - Hi there, Welcome to my profile
+### - I'm a bachelor student of computer science at the university of Tehran ![Screenshot from 2022-12-22 23-42-40](https://user-images.githubusercontent.com/83788223/209231124-1d1fc161-6274-4688-b3db-180001e60028.png) since 2019
+  
 
-<!---
-minailkhani/minailkhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+I'm fond of coding in 
+<img alt="img" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=yellow" />
+I code in 
+<img alt="img" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/ASM-013243" />
+too
+<p>
+I use
+<img alt="img" src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white" />
+<p>
+I code with 
+<img alt="img" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white" />
+<img alt="img%20colab" src="https://img.shields.io/badge/google%20colab-F9AB00?logo=google%20colab&logoColor=white" />
+<p>
+I'm intrested in and I know:
+<img alt="img" src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/scikit-learn-EA4335?logo=scikit-learn&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white" />
+<img alt="img" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white" />
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minailkhani&show_icons=true&theme=transparent)
+​
+## Contact
+- Gmial : minailkhani00@gmail.com
+- Student Email : mina.ilkhani@ut.ac.ir
+- [Linkedin](https://www.linkedin.com/in/mina-ilkhani-7a2a67211/)
+- [Telegram](https://t.me/mina_iln)
