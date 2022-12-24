@@ -23,6 +23,7 @@ I'm intrested in
 <img alt="img" src="https://img.shields.io/badge/Bio Inspired Algorithms-FF5A5F" />
 <img alt="img" src="https://img.shields.io/badge/Evolutionary Algorithm-FF5A5F" />
 <img alt="img" src="https://img.shields.io/badge/Applied Machine Learning-FF5A5F" />
+<img alt="img" src="https://img.shields.io/badge/NLP-FF5A5F" />
 <img alt="img" src="https://img.shields.io/badge/Applied Deep Learning-FF5A5F" />
 <img alt="img" src="https://img.shields.io/badge/Artificial Intelligence-FF5A5F" />
 <img alt="img" src="https://img.shields.io/badge/Neuroscience-FF5A5F" />
