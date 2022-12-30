@@ -1,5 +1,5 @@
 ### - Hi there, Welcome to my profile
- I'm a bachelor student of **computer science** at the University of Tehran ![Screenshot from 2022-12-22 23-42-40](https://user-images.githubusercontent.com/83788223/209231124-1d1fc161-6274-4688-b3db-180001e60028.png) since 2019
+ A bachelor student of **computer science** at the University of Tehran ![Screenshot from 2022-12-22 23-42-40](https://user-images.githubusercontent.com/83788223/209231124-1d1fc161-6274-4688-b3db-180001e60028.png) since 2019
   
 
 <p>
