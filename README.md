@@ -47,7 +47,7 @@ I know:
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minailkhani&show_icons=true&theme=transparent)
 ## Contact
-- Gmial : minailkhani00@gmail.com
+- Gmail : minailkhani00@gmail.com
 - Student Email : mina.ilkhani@ut.ac.ir
 - [Linkedin](https://www.linkedin.com/in/mina-ilkhani-7a2a67211/) (*visit PLZ*)
 - [Telegram](https://t.me/mina_iln)
