@@ -1,5 +1,5 @@
 ### - Hi there, Welcome to my profile
- A bachelor student of **computer science** at the University of Tehran ![Screenshot from 2022-12-22 23-42-40](https://user-images.githubusercontent.com/83788223/209231124-1d1fc161-6274-4688-b3db-180001e60028.png) since 2019
+ A Bachelor's degree graduate of **computer science** at the University of Tehran ![Screenshot from 2022-12-22 23-42-40](https://user-images.githubusercontent.com/83788223/209231124-1d1fc161-6274-4688-b3db-180001e60028.png) 
   
 
 <p>
@@ -31,6 +31,7 @@ I'm intrested in
 <img alt="img" src="https://img.shields.io/badge/Data Mining-FF5A5F" />
 <p>
 I know:
+<img alt="img" src="https://img.shields.io/badge/PyTorch-23EE4C2C?logo=PyTorchc&logoColor=white" />
 <img alt="img" src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white" />
 <img alt="img" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
 <img alt="img" src="https://img.shields.io/badge/scikit learn-EA4335?logo=scikit-learn&logoColor=white" />
@@ -44,8 +45,6 @@ I know:
 
   
   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minailkhani&show_icons=true&theme=transparent)
 ## Contact
 - Gmail : minailkhani00@gmail.com
 - Student Email : mina.ilkhani@ut.ac.ir
