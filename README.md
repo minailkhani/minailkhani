@@ -51,5 +51,5 @@ I know:
 ## Contact
 - Personal Email: minailkhani00@gmail.com
 - Academic Email: mina.ilkhani@edu.rptu.de
-- [Linkedin](www.linkedin.com/in/minailkhani) (*visit PLZ*)
+- [Linkedin](https://www.linkedin.com/in/minailkhani/) (*visit PLZ*)
 - [Telegram](https://t.me/mina_iln)
